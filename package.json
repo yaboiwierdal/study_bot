@@ -19,7 +19,9 @@
   "homepage": "https://github.com/yaboiwierdal/study_bot#readme",
   "dependencies": {
     "discord.js": "^13.3.1",
-    "dotenv": "^10.0.0"
+    "dotenv": "^10.0.0",
+    "sql.js": "^1.6.2",
+    "sqlite3": "^5.0.2"
   },
   "devDependencies": {
     "eslint": "^8.2.0"
